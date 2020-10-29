@@ -1,3 +1,3 @@
 # wordcloud
-## word11cloud file contains the code
-## file cloud image contains the output
+## filename ''word11cloud'' contains the code
+## filename ''cloud-image'' contains the output
